@@ -1,2 +1,2 @@
 # Changelog
-All notable changes to this project will be documented in this file.
+All important changes to this project will be documented in this file.
